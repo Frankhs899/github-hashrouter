@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react-swc';
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: 'https://frankhs899.github.io/github-hashrouter',
+  base: 'https://frankhs899.github.io/github-hashrouter/',
 });
